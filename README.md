@@ -10,7 +10,7 @@
 
 This repository is the core library of the Thunder micro CLI framework.
 
-The aims is to provide a simple extensible kernel with DI.
+The aim is to provide a simple extensible kernel with DI.
 
 ## Todos
 - [X] Add Eventstore persistent subcription console
